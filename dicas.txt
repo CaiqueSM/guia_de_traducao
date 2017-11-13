@@ -363,7 +363,7 @@ int main(int argc, char *argv[])
 	return 0;
 }
 <<fim>>
-<<retun>>
+<<return>>
 Este comando possui como equivalente na linguagem C o comando "retun" que possui a mesma finalidade deste, ou seja, termina a função na linha em que foi encontrado e devolve um valor calculado por esta função, sendo que este deve ser do mesmo tipo do tipo de dado retornado pela função.
 <<fim>>
 <<procedure>>
